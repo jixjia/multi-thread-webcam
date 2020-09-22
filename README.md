@@ -2,12 +2,12 @@
 An elegant implementation of multi-threaded webcam access in OpenCV
 
 # Usage
-Execute `python demo.py` to check performance improvement before and after applying the multi-threading to OpenCV's videoCapture() stream.      
+Execute `python demo.py` to check performance improvement before and after applying the multi-threading class to OpenCV's videoCapture() stream.      
 
-Expect ~10x performance improvement on streaming webcam FPS rate.
+Expect ~10x performance improvement on webcam FPS rate.
 
 # Example
-Demo in this repository runs a Caffe trained face detector on webcam stream in real-time. The threading added 173% improvement on FPS rate after applying the threading.
+Demo in this repository runs a Caffe trained face detector on webcam stream in real-time. The threading added **173%** improvement on FPS rate after applying the threading.
 
 <img src='screenshot.png'>
 
