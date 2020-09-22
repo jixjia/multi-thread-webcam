@@ -6,5 +6,5 @@ Execute `python demo.py` to check performance improvement before and after apply
 
 Expect 300% - 1000% performance boost compared to the standard OpenCV
 
-<img src='screenshopt.png'>
+<img src='screenshot.png'>
 
